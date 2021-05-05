@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", //orienta o typescript que os nossos arquivos para rodar estão na na pasta src.
     "target": "es5",
     "lib": [
       "dom",
